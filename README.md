@@ -48,17 +48,32 @@ Below are repositories demonstrating modern QA engineering practices:
 - Automation Framework  
   Selenium-based automation framework using Java and TestNG.
 
+  Repository:
+  https://github.com/divya-gitrep/selenium-automation-framework
+
 - API Automation  
   REST API testing examples including request validation and schema testing.
+
+  Repository:
+  https://github.com/divya-gitrep/api-testing-restassured
 
 - SQL for QA  
   SQL queries used for validating backend data and database testing scenarios.
 
+  Repository:
+  https://github.com/divya-gitrep/sql-for-qa-engineers
+
 - QA Test Strategy  
   Examples of test strategies, risk-based testing plans, and quality processes.
 
+  Repository:
+  https://github.com/divya-gitrep/qa-test-strategy
+
 - Bug Report Portfolio  
   Sample defect reports demonstrating strong bug documentation practices.
+
+  Repository:
+  https://github.com/divya-gitrep/bug-report-portfolio
 
 - CI/CD Examples  
   Automated testing pipelines using GitHub Actions.
