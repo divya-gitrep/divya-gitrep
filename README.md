@@ -1,4 +1,5 @@
 # Hi, I'm Divya 👋
+Senior QA Engineer | Test Automation | API Testing | CI/CD | SQL Testing | Agile
 
 Senior Software Quality Assurance Engineer with 11+ years of experience ensuring high-quality software delivery across complex applications.
 
