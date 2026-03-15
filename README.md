@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Divya 👋
 
 Senior Software Quality Assurance Engineer with 11+ years of experience ensuring high-quality software delivery across complex applications.
